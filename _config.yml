@@ -17,6 +17,8 @@ logo_footer:
 header_pages:
   -
 
+google_analytics: "G-SBCKCNFKBF"
+
 minima:
   social_links:
     twitter: jseeio
