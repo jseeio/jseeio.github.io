@@ -1,6 +1,6 @@
-# JSEE
+# JSEE Apps
 
-Highly opinionated GUI wrapper for processing tasks, machine learning models and APIs
+JSEE is a highly opinionated GUI wrapper for processing tasks, machine learning models and APIs
 
 ## Examples
 
