@@ -1,7 +1,7 @@
 # JSEE Apps
 
-JSEE is a highly opinionated GUI wrapper for processing tasks, machine learning models and APIs
+Collection of free and open-source web apps made with [JSEE](https://jsee.io)
 
-## Examples
+## Cryptography
 
 - [keygen](/keygen) - Generate RSA keys
