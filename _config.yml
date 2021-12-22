@@ -1,6 +1,6 @@
-title: "JSEE. JavaScript Execution Environment"
+title: "JSEE"
 description: > # this means to ignore newlines until "show_excerpts:"
-  Highly opinionated GUI wrapper for processing tasks, machine learning models and APIs
+  JavaScript Execution Environment.
 
 show_excerpts: false
 
@@ -8,6 +8,14 @@ logo_header:
   src: https://jsee.io/images/logo.svg
   href: https://jsee.io/
   width: 70
+
+logo_footer:
+  src: https://jsee.io/images/logo.svg
+  href: https://jsee.io/
+  width: 50
+
+header_pages:
+  -
 
 minima:
   social_links:

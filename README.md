@@ -1,6 +1,6 @@
 # JSEE
 
-JSEE is a highly opinionated wrapper for processing tasks.
+Highly opinionated GUI wrapper for processing tasks, machine learning models and APIs
 
 ## Examples
 
